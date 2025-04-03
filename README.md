@@ -16,11 +16,10 @@ I'm a Master's student in Computer Science at the **University of Southern Calif
 
 Here's a snapshot of the technologies and concepts I work with:
 
--   **Languages:** C, C++, Go, Python, SQL, Rust, Shell Scripting
--   **Cloud & DevOps:** AWS (EC2, Kinesis, Lambda, Redshift, RDS, S3, CodePipeline), GCP, Azure, Docker, Kubernetes, CI/CD
--   **Systems & Databases:** Linux/UNIX, PostgreSQL, MySQL, Redis, Kafka, DynamoDB, Cassandra, RTOS
--   **Core Concepts:** Distributed Systems, Kernel Development, Concurrent Programming, Data Structures & Algorithms, Object-Oriented Design, Test-Driven Development (TDD), Agile/Scrum
 
+-   [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,python,rust,bash)](https://skillicons.dev)
+-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes)](https://skillicons.dev)
+-   [![My Skills](https://skillicons.dev/icons?i=linux,postgresql,mysql,redis,kafka,dynamodb,cassandra)](https://skillicons.dev)
 
 ## 💼 Experience Highlights
 
@@ -37,4 +36,3 @@ Here's a snapshot of the technologies and concepts I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=harshalborhade&show_icons=true&theme=radical" alt="Harshal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalborhade&layout=compact&theme=radical" alt="Top Languages" />
 </p>
--->
